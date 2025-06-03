@@ -7,6 +7,7 @@ type Program = {
   poster: string;
   country: string;
   year: number;
+  name: string;
 };
 
 function Programs() {
